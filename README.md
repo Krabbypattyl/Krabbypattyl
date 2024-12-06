@@ -1,22 +1,30 @@
-<div align="center">
-  
-  <!-- dynamic typing effect 动态打字效果 -->
-  <div align="center">
-    <a href="">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=print(%22Hello+World%22)" alt="Typing SVG" />      
-    </a>
-  </div>
+# 👋 你好, 我是 小明!
 
-  <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://p8.itc.cn/images01/20230921/d947ade96302458283696a4b9c8ea4a0.gif" /><br>
+## 🌟 关于我
 
-<p><b>Technology has the power to make the world a better place</b></p>
-</div>
+- 🔭 我正在学习 **前端开发** 和 **数据分析**
+- 🌱 我喜欢探索 **人工智能** 和 **机器学习**
+- 💬 我们可以通过 [邮箱](leo25315516@gmail.com) 联系
+- 📈 每天都在进步，向更好的开发者迈进!
 
-## Hi! Nice to meet you!
+## 🧰 我的技能
 
-<!-- 个人简介 -->
-- 👋 Hi, I’m @Krabbypattyl
-- 👀 I ’m interest in python, server development, database, AI, etc.
-- 🌱 I’m currently learning database, AI.
-- 📫 How to reach me? Email: leo25315516@gmail.com
+- **前端技术**: React, Vue, HTML, CSS
+- **后端技术**: Node.js
+- **数据分析**: Python, Pandas, Jupyter
+- **数据库**: MySQL, MongoDB
+
+## 📈 我的 GitHub 统计
+
+![我的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=xiaoming&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=gruvbox)
+
+## 🚀 我正在进行的项目
+
+- [项目一](https://github.com/xiaoming/project1) - 一个用于数据分析的小工具
+- [项目二](https://github.com/xiaoming/project2) - 一个用于学习 React 的应用
+
+## 🦸‍♂️ 我的开源贡献
+
+- [贡献到开源项目](https://github.com/xiaoming/open-source)
+- ⭐ 喜欢我的项目吗？请给我一个 ⭐
+
