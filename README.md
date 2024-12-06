@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=print(%22Hello+World%22))](https://git.io/typing-svg)
 [![Krabbypattyl](https://github-readme-stats.vercel.app/api?username=Krabbypattyl)](https://github.com/anuraghazra/github-readme-stats)
 [![Krabbypattyl](https://github-profile-trophy.vercel.app/?username=Krabbypattyl)](https://github.com/ryo-ma/github-profile-trophy)
 
