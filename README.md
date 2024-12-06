@@ -8,7 +8,7 @@
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://dingyue.ws.126.net/2020/0703/ff8a9d65g00qcvmdm00e8d200dw008cg00dw008c.gif" /><br>
+  <img src="https://p8.itc.cn/images01/20230921/d947ade96302458283696a4b9c8ea4a0.gif" /><br>
 
 <p><b>Technology has the power to make the world a better place</b></p>
 </div>
