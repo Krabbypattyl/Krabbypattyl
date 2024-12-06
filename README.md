@@ -16,7 +16,7 @@
 
 ## 📈 我的 GitHub 统计
 
-![我的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=xiaoming&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=gruvbox)
+![我的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=Krabbypattyl&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=gruvbox)
 
 ## 🚀 我正在进行的项目
 
