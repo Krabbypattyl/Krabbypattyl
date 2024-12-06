@@ -8,7 +8,7 @@
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+  <img src="[https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif](https://w.wallhaven.cc/full/x8/wallhaven-x892zz.png)" /><br>
 
 <p><b>Technology has the power to make the world a better place</b></p>
 </div>
